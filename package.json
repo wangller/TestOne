@@ -1,6 +1,6 @@
 {
-  "name": "testone",
-  "version": "0.1.0",
+  "name": "@wangll/testone",
+  "version": "0.1.1",
   "description": "publish test",
   "main": "index.js",
   "scripts": {
